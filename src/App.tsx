@@ -1,11 +1,9 @@
-import Alert from "./components/Alert";
+import Login from "./components/Login";
 
 export default function App() {
   return (
     <div>
-      <Alert>
-        Hello <h1>World!</h1>
-      </Alert>
+      <Login />
     </div>
   );
 }
