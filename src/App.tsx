@@ -1,9 +1,8 @@
-import Login from "./components/Login";
-
+import TransmissionPage from "./components/TransmissionPage";
 export default function App() {
   return (
     <div>
-      <Login />
+      <TransmissionPage></TransmissionPage>
     </div>
   );
 }
